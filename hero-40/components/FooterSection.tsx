@@ -269,7 +269,7 @@ export default function FooterSection() {
           </div>
 
           <small>
-            © 2026 Aditya Jain • B.Tech CSE, Jai Narain College of Technology • Bhopal, India
+            © 2026 Aditya Jain • B.Tech CSE, Lakshmi Narain College of Technology • Bhopal, India
           </small>
         </section>
       </div>

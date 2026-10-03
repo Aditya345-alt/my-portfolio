@@ -21,7 +21,7 @@ const results = [
   {
     value: "'24-'28",
     label: "B.Tech CSE",
-    text: "Focused academic and practical training in Data Structures, Algorithms, System Design, and Machine Learning at JNCT Bhopal.",
+    text: "Focused academic and practical training in Data Structures, Algorithms, System Design, and Machine Learning at LNCT Bhopal.",
   },
 ];
 

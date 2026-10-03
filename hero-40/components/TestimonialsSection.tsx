@@ -49,7 +49,7 @@ export default function TestimonialsSection() {
               </span>
             </div>
             <p>
-              Undergraduate at Jai Narain College of Technology, Bhopal. Proven track record in high-pressure competitive hackathons, collaborative technical leadership, and disciplined execution.
+              Undergraduate at Lakshmi Narain College of Technology, Bhopal. Proven track record in high-pressure competitive hackathons, collaborative technical leadership, and disciplined execution.
             </p>
             <div className="testimonial-summary-bottom">
               <strong>Aditya Jain</strong>

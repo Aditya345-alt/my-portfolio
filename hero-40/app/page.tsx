@@ -66,7 +66,7 @@ export default function Home() {
             <span className="headline-line">and Intelligent Prototypes</span>
           </h1>
           <p className="hero-copy">
-            Undergraduate at Jai Narain College of Technology, Bhopal. SIH 2025 Grand Finale Finalist
+            Undergraduate at Lakshmi Narain College of Technology, Bhopal. SIH 2025 Grand Finale Finalist
             <br className="desktop-break" />
             building end-to-end systems across computer vision, AI weather nowcasting, and reactive web applications.
           </p>

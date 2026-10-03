@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 
 > **Computer Science Engineering Undergraduate | Software & AI/ML Internships**  
-> *Jai Narain College of Technology, Bhopal (Sep 2024 – Aug 2028)*  
+> *Lakshmi Narain College of Technology, Bhopal (Sep 2024 – Aug 2028)*  
 > **Smart India Hackathon 2025 Grand Finale Finalist** (Team Ragnarok)  
 > Email: [jaadi1229@gmail.com](mailto:jaadi1229@gmail.com) • LinkedIn: [linkedin.com/in/aditya-jain-a429b532b](https://linkedin.com/in/aditya-jain-a429b532b)
 
